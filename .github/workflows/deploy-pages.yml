@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - claude/fortnite-sprite-tracker-xwaf5c
   workflow_dispatch:
 
 permissions:
